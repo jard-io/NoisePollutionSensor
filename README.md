@@ -1,4 +1,4 @@
-# Noise Pollution Sensor in AVR Assembly
+# :megaphone: Noise Pollution Sensor in AVR Assembly
 ## Introduction
 I made a simple Noise Pollution Sensor using the [Grove Beginner Kit](https://wiki.seeedstudio.com/Grove-Beginner-Kit-For-Arduino/). In this project, I utilize the kit’s sound sensor module, LED module, and the serial communication capabilities of the ATmega328P to demonstrate the creation of a rudimentary I/O device using assembly. The device captures sound intensity from its surroundings and sends a warning message through serial communication.
 
